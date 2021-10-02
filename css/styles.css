@@ -1,0 +1,17 @@
+html {
+    background-color: darkslategrey;
+}
+
+div.middle-page {
+    position: relative;
+    top: 350px;
+}
+
+h1 {
+    color: seagreen;
+    text-align: center;
+    font-size: 60px;
+    letter-spacing: 0.2em;
+    font-family: "Press Start 2P",monaco, monospace;
+    text-shadow: 4px 4px 4px springgreen;
+}
